@@ -150,23 +150,3 @@ if __name__ == '__main__':
     write_out(top_index, top_r)
     end = time.clock()
     print('time cost: ', str(end - start), 's')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
